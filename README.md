@@ -10,6 +10,6 @@ Code 2: video_downloader.py
 
 > Downloads all the videos mentioned in the '.csv' file.
 
-Code 3: makeClip.py
+Code 3: makeClip.py, makeClipV2.py
 
 > Creates clip from the video.
