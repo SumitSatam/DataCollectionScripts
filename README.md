@@ -13,3 +13,7 @@ Code 2: video_downloader.py
 Code 3: makeClip.py, makeClipV2.py
 
 > Creates clip from the video.
+
+Code 4: makeFrames.py
+
+> Extract frames from clipped video.
