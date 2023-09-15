@@ -22,3 +22,4 @@ Code 5: auto_annotate.py
 
 > To make training data for fix positioned labels with creating bounding boxes around region of interest.
   This code will create .txt file for all the existing files in folder, except 'classes.txt'.
+  Here one will need to decide ROI on the screen and edit the code according to number of labels involved.
