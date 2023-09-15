@@ -17,3 +17,8 @@ Code 3: makeClip.py, makeClipV2.py
 Code 4: makeFrames.py
 
 > Extract frames from clipped video.
+
+Code 5: auto_annotate.py
+
+> To make training data for fix positioned labels with creating bounding boxes around region of interest.
+  This code will create .txt file for all the existing files in folder, except 'classes.txt'.
